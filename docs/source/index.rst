@@ -1,22 +1,16 @@
 Описание платформы API-Trader
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Платформа API-Trader предоставляет возможность алгоритмической торговли на бирже Binance. Процессом торговли управляет бот, который можно создать, настроить и запустить за несколько минут. Боты ищут подходящий момент для старта по выбранной торговой паре, после чего закупают криптовалюту частями при падении цены. Когда цена валюты начинает расти, бот ищет возможность продать ее и зафиксировать профит. Данный процесс непрерывен и продолжается в режиме 24*7*365.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Подробности по настройке и описание всех возможностей платформы далее в данном описании.
 
-.. note::
-
-   This project is under active development.
-
-Contents
+Оглавление
 --------
 
 .. toctree::
 
-   usage
-   api
+   Регистрация
+   Вход в систему
+   Восстановление пароля
+   Смена пароля
