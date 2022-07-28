@@ -10,5 +10,5 @@
 
 .. toctree::
    
-   Регистрация
-   Вход в систему
+   registration
+   login
