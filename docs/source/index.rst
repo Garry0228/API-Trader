@@ -9,3 +9,5 @@
 --------
 
 .. toctree::
+    registration
+    login
