@@ -6,4 +6,4 @@
 .. figure:: img/registration.png
     :scale: 100 %
     :align: center
-    :alt: Альтернативный текст
+    :alt: Регистрация
