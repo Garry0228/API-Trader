@@ -7,3 +7,5 @@
     :scale: 100 %
     :align: center
     :alt: Регистрация
+	
+
