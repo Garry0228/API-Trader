@@ -14,4 +14,3 @@
     registration
     login
 	profile
-
