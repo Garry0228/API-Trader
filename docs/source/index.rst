@@ -13,4 +13,4 @@
 .. toctree::
     registration
     login
-	profile
+    profile
